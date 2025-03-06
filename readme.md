@@ -10,7 +10,7 @@
 
 <h2>Installation</h2>
 <h3>1. Cloner le dépôt</h3>
-<pre><code>git clone https://github.com/Salma-chafiq/Chatboat.git
+<pre><code>git clone https://github.com/Salma-chafiq/Chatboat.git </code>
 <h3>2. Créer un environnement virtuel</h3>
 <pre><code>python -m venv venv</code></pre>
 
@@ -37,7 +37,7 @@
 </ul>
 
 <h2>Aperçu de l'exécution</h2>
-<img src="img/cap.png" alt="Aperçu de l'application" width="600">
+<img src="./img/cap.png" alt="Aperçu de l'application" width="600">
 
 <h2>Conclusion</h2>
 <p>Ce projet est un chatbot interactif utilisant LLaMA avec Streamlit et LangChain. Il permet une interaction fluide et peut être adapté à différents cas d'utilisation en changeant le rôle défini dans <code>SystemMessage</code>.</p>
