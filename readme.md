@@ -10,7 +10,7 @@
 
 <h2>Installation</h2>
 <h3>1. Cloner le dépôt</h3>
-<pre><code>git clone https://github.com/Salma-chafiq/Chatboat.git </code>
+<pre><code>git clone https://github.com/Salma-chafiq/Chatboat.git </code></pre>
 <h3>2. Créer un environnement virtuel</h3>
 <pre><code>python -m venv venv</code></pre>
 
